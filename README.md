@@ -15,6 +15,7 @@
 | เพิ่มฟิลด์ เปลี่ยนหนังสือเป็นสินค้า เพิ่ม CRUD ที่สอง เปลี่ยน DB | [คู่มือ Modify](docs/MODIFY.md) |
 | แก้หน้าเว็บ เชื่อม Backend เปลี่ยน API URL พร้อมตัวอย่างหน้า CRUD | [คู่มือ Frontend](docs/FRONTEND.md) |
 | ใช้ JavaScript Backend แทน NestJS/TypeScript | [คู่มือ JavaScript + Express](docs/JAVASCRIPT-BACKEND.md) |
+| เปิด Swagger, ลองแนบไฟล์, เพิ่ม CRUD ใหม่ และเจนโค้ดเรียก API | [คู่มือ Swagger และ OpenAPI](docs/SWAGGER.md) |
 | ย้ายเครื่อง ข้อมูลหาย รูปหาย หรือเปิดไม่ได้ | หัวข้อ Git และแก้ปัญหาด้านล่าง |
 
 ## 1. เข้าใจก่อนว่าแต่ละส่วนคืออะไร
